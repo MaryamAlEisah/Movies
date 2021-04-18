@@ -1,28 +1,11 @@
 
-// alert 
 
-//  alert("Hello");
+// TO Do List:
+// - Ask the user about fav blacklistName char at the back list movie
+// - add an image of that char based on the use input
+// - validator ==> keep asking the user if he choose blacklistName char [liz, red]
+// - Ask the user how many image he/she want to see on the webpage
 
-//  prompt document.write
-
-//  var yourAge= prompt('please enter your yourAge');
-// console.log(yourAge);
-
-// if(yourAge >= 18){
-// document.write('<h1>you are old have a nice watching </h1>');
-
-//  document.write("<img src='https://upload.wikimedia.org/wikipedia/en/2/2e/Nice_Time_%281957_film%29.jpg '>")
-
-// }else{document.write('<h1>you are too age</h1>');
-//  }
-
-/*
-TO Do List:
-- Ask the user about fav blacklistName char at the back list movie
-- add an image of that char based on the use input
-- validator ==> keep asking the user if he choose blacklistName char [liz, red]
-- Ask the user how many image he/she want to see on the webpage
-*/
  // // function declaration 
 var blacklistName;
 
