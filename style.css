@@ -1,0 +1,31 @@
+
+header{background-color: blue}
+
+h1{
+  color:yellow;
+  text-align: center;
+}
+main artical img{
+  width: 90%;
+  opacity: 1;
+
+}
+nav ul li a {
+  text-decoration: none;
+
+}
+#first_p{
+  color: #126e82;
+
+}
+.restof_p{
+  font-size: 20px;
+  color:blueviolet ;
+}
+nav{
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+}
